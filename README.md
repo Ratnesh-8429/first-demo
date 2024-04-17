@@ -1,4 +1,4 @@
 # first-demo
 This is my first Repository.
 <br>
-Author- Ratnesh Kumar
+Author- Ratnesh Kumar(Shakti roy )
